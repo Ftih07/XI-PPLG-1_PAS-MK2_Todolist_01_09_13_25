@@ -1,0 +1,12 @@
+D:\Backup Laptop\Sekolah\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+D:\Backup Laptop\Sekolah\ToDoList\ToDoList\obj\Debug\ToDoList.Form1.resources
+D:\Backup Laptop\Sekolah\ToDoList\ToDoList\obj\Debug\ToDoList.FormRegister.resources
+D:\Backup Laptop\Sekolah\ToDoList\ToDoList\obj\Debug\ToDoList.MainFormcs.resources
+D:\Backup Laptop\Sekolah\ToDoList\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+D:\Backup Laptop\Sekolah\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+D:\Backup Laptop\Sekolah\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+D:\Backup Laptop\Sekolah\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+D:\Backup Laptop\Sekolah\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+D:\Backup Laptop\Sekolah\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+D:\Backup Laptop\Sekolah\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+D:\Backup Laptop\Sekolah\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
